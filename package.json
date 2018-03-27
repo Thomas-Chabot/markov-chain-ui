@@ -1,0 +1,16 @@
+{
+  "name": "markov-chain-ui",
+  "version": "1.0.0",
+  "description": "a simple user interface app built to showcase markov-chain-nlg",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "author": "sean hodges",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "markov-chain-nlg": "^1.0.1"
+  }
+}

@@ -1,0 +1,14 @@
+.genbox {
+  height: calc(100% - 30px);
+  overflow-y: auto;
+}
+
+.timestamp {
+  margin-right: 20px;
+}
+
+.next-button {
+  position: fixed;
+  bottom: 10;
+  width: 100%;
+}
